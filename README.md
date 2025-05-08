@@ -1,0 +1,2 @@
+# Decoding-Emotions-Through-Sentiment-Analysis-of-Social-Media-Conversations
+🔍This project analyzes emotions in social media posts using Natural Language Processing (NLP). It uses the VADER Sentiment Analyzer to classify short texts into Positive, Negative, or Neutral emotions. The pipeline includes data preprocessing, sentiment scoring, emotion labeling, and visualizations. A flowchart illustrates the entire process. 
