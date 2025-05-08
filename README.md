@@ -12,16 +12,6 @@ Visualizing emotion distribution
 Generating a project workflow flowchart
 
 📌 Features
-
- ⚙️ Clean, lowercase, and lemmatized text processing
-
- ⚙️ Emotion detection with compound scoring
-
- ⚙️ Visual analytics using Seaborn and Matplotlib
-
- ⚙️ Pipeline flowchart created with Graphviz
-
-📌 Features
   
  ⚙️ Clean, lowercase, and lemmatized text processing
 
@@ -31,5 +21,14 @@ Generating a project workflow flowchart
 
  ⚙️ Pipeline flowchart created with Graphviz
 
+👨‍💻 Applications
+
+ ⚙️ Public sentiment monitoring
+
+ ⚙️ Brand and campaign feedback analysis
+
+ ⚙️ Mental health trend detection
+
 👤 Author
-THARANISH M — second Year artifical intellegence Data and Science Student
+  
+  THARANISH M — second Year artifical intellegence Data and Science Student
