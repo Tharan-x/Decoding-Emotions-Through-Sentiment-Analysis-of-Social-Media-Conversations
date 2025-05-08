@@ -87,7 +87,6 @@ Real-time emotion dashboards
 
 Tharanish M
 Second Year B.Tech – Artificial Intelligence and Data Science
-[Your Institution Name]
 
 
 ---
