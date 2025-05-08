@@ -32,4 +32,4 @@ Generating a project workflow flowchart
  ⚙️ Pipeline flowchart created with Graphviz
 
 👤 Author
-THARANISH M — second Year artifical intellegence Data Science Student
+THARANISH M — second Year artifical intellegence Data and Science Student
