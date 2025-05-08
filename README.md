@@ -12,6 +12,11 @@ Visualizing emotion distribution
 
 Generating a project workflow flowchart
 
+How to Run
+
+  1. Install the required libraries: `pip install -r requirements.txt`
+  2. Run the script: `python emotion_analysis_bert_gui.py`
+
 📌 Features
   
  ⚙️ Clean, lowercase, and lemmatized text processing
@@ -21,6 +26,13 @@ Generating a project workflow flowchart
  ⚙️ Visual analytics using Seaborn and Matplotlib
 
  ⚙️ Pipeline flowchart created with Graphviz
+
+ Requirements
+ 
+  - torch
+  - transformers
+  - tkinter
+  - (optional for GUI enhancement) matplotlib
 
 👨‍💻 Applications
 
@@ -33,3 +45,7 @@ Generating a project workflow flowchart
 👤 Author
   
   THARANISH M — second Year artifical intellegence Data and Science Student
+
+  License  
+  
+   Academic use only.
