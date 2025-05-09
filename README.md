@@ -30,6 +30,13 @@ python emotion_analysis_bert_gui.py
 
 ---
 
+🔗 LIVE DEMO
+
+ https://c10383e2a176229ef5.gradio.live/
+
+---
+
+
 📁 Project Structure
 
 emotion-analysis-project/
