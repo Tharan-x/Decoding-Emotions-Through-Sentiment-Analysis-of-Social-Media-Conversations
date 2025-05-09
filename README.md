@@ -30,6 +30,18 @@ python emotion_analysis_bert_gui.py
 
 ---
 
+📁 Project Structure
+
+emotion-analysis-project/
+├── emotion_analysis.py           # Main Python script
+├── social_media_posts.csv        # Sample dataset
+├── emotion_labeled_data.csv      # Output with labeled emotions
+├── README.md                     # Project overview
+├── requirements.txt              # Python dependencies
+├── flowchart_pipeline.png        # Pipeline flowchart
+├── emotion_distribution.png      # Emotion frequency chart
+
+
 📌 FEATURES
 
 Cleaned, normalized, and lemmatized text input
