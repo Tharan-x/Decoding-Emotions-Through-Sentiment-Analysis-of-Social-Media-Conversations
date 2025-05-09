@@ -37,6 +37,12 @@ python emotion_analysis_bert_gui.py
 ---
 
 
+![interface of the project](https://github.com/user-attachments/assets/d4cabefc-610e-48f9-a49f-87f7806d9647)
+
+
+---
+
+
 📁 Project Structure
 
 emotion-analysis-project/
