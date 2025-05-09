@@ -91,16 +91,15 @@ pip install torch transformers matplotlib
 
 ---
 
-📊 APPLICATIONS
+📊  APPLICATIONS
 
-Public sentiment monitoring
+🎯 Public sentiment monitoring
 
-Brand and campaign feedback analysis
+📊 Brand analysis dashboards
 
-Mental health signal tracking
+🧠 Mental health insight tools
 
-Real-time emotion dashboards
-
+🎓 Educational demo for emotion-aware NLP
 
 
 ---
