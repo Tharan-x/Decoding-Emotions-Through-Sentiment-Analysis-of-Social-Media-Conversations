@@ -42,6 +42,9 @@ emotion-analysis-project/
 ├── emotion_distribution.png      # Emotion frequency chart
 
 
+
+---
+
 📌 FEATURES
 
 Cleaned, normalized, and lemmatized text input
