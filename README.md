@@ -16,7 +16,7 @@ Generating a project workflow flowchart
 
 ---
 
-🛠️ HOW TO RUN
+🛠️ HOW TO RUN:
 
 1. Install required libraries:
 pip install -r requirements.txt
@@ -30,12 +30,14 @@ python emotion_analysis_bert_gui.py
 
 ---
 
-🔗 LIVE DEMO
+🔗 LIVE DEMO:
 
  https://c10383e2a176229ef5.gradio.live/
 
 ---
 
+
+🖼️ INTERFACE PREVIEW:
 
 ![interface of the project](https://github.com/user-attachments/assets/d4cabefc-610e-48f9-a49f-87f7806d9647)
 
@@ -43,7 +45,7 @@ python emotion_analysis_bert_gui.py
 ---
 
 
-📁 Project Structure
+📁 Project Structure:
 
 emotion-analysis-project/
 ├── emotion_analysis.py           # Main Python script
@@ -74,7 +76,7 @@ Simple and clean GUI built with Tkinter
 
 ---
 
-⚙️ REQUIREMENTS
+⚙️ REQUIREMENTS:
 
 The following Python libraries are required:
 
